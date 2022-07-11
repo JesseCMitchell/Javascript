@@ -1,5 +1,5 @@
 // Create a function that returns any given night's number of hours of rest using if/else or switch
-
+// **Refactored without the above function
 // Get the total sleep hours you actually slept
 const getActualSleepHours = () => 8 + 6 + 7 + 4 + 5 + 9 + 11;
 
